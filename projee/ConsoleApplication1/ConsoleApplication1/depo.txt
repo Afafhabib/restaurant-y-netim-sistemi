@@ -1,0 +1,198 @@
+Un kalorisi: 364
+Un stok adedi: 1735
+Un fiyatý: 15
+Un üretim tarihi: 21 / 01 / 2021
+Un son kullanma tarihi: 12 / 08 / 2024
+
+Domates kalorisi: 18
+Domates stok adedi: 828
+Domates fiyatý: 12
+Domates üretim tarihi: 12 / 02 / 2022
+Domates son kullanma tarihi: 28 / 11 / 2026
+
+Sogan kalorisi: 40
+Sogan stok adedi: 1896
+Sogan fiyatý: 14
+Sogan üretim tarihi: 29 / 09 / 2022
+Sogan son kullanma tarihi: 07 / 02 / 2023
+
+Feslegen kalorisi: 22
+Feslegen stok adedi: 950
+Feslegen fiyatý: 8
+Feslegen üretim tarihi: 21 / 04 / 2022
+Feslegen son kullanma tarihi: 05 / 06 / 2024
+
+Mozarella kalorisi: 280
+Mozarella stok adedi: 1854
+Mozarella fiyatý: 28
+Mozarella üretim tarihi: 04 / 11 / 2021
+Mozarella son kullanma tarihi: 12 / 07 / 2022
+
+Sarýmsak kalorisi: 149
+Sarýmsak stok adedi: 1881
+Sarýmsak fiyatý: 4
+Sarýmsak üretim tarihi: 06 / 12 / 2022
+Sarýmsak son kullanma tarihi: 08 / 02 / 2025
+
+Yag kalorisi: 884
+Yag stok adedi: 1515
+Yag fiyatý: 9
+Yag üretim tarihi: 14 / 07 / 2020
+Yag son kullanma tarihi: 05 / 01 / 2023
+
+Tuz kalorisi: 0
+Tuz stok adedi: 758
+Tuz fiyatý: 5
+Tuz üretim tarihi: 26 / 06 / 2022
+Tuz son kullanma tarihi: 06 / 04 / 2028
+
+Somon kalorisi: 208
+Somon stok adedi: 1200
+Somon fiyatý: 35
+Somon üretim tarihi: 09 / 03 / 2021
+Somon son kullanma tarihi: 12 / 12 / 2022
+
+Su kalorisi: 0
+Su stok adedi: 1818
+Su fiyatý: 5
+Su üretim tarihi: 07 / 05 / 2022
+Su son kullanma tarihi: 21 / 04 / 2029
+
+Pirinc kalorisi: 130
+Pirinc stok adedi: 1743
+Pirinc fiyatý: 18
+Pirinc üretim tarihi: 12 / 01 / 2020
+Pirinc son kullanma tarihi: 24 / 03 / 2023
+
+Tavuk kalorisi: 239
+Tavuk stok adedi: 1595
+Tavuk fiyatý: 28
+Tavuk üretim tarihi: 16 / 06 / 2022
+Tavuk son kullanma tarihi: 17 / 05 / 2024
+
+Krema kalorisi: 196
+Krema stok adedi: 1491
+Krema fiyatý: 14
+Krema üretim tarihi: 24 / 07 / 2021
+Krema son kullanma tarihi: 15 / 04 / 2023
+
+Parmesan kalorisi: 431
+Parmesan stok adedi: 1095
+Parmesan fiyatý: 24
+Parmesan üretim tarihi: 28 / 09 / 2022
+Parmesan son kullanma tarihi: 16 / 06 / 2024
+
+Sucuk kalorisi: 330
+Sucuk stok adedi: 1023
+Sucuk fiyatý: 11
+Sucuk üretim tarihi: 21 / 06 / 2022
+Sucuk son kullanma tarihi: 04 / 09 / 2025
+
+Biber kalorisi: 40
+Biber stok adedi: 1060
+Biber fiyatý: 14
+Biber üretim tarihi: 29 / 01 / 2021
+Biber son kullanma tarihi: 09 / 07 / 2023
+
+Mantar kalorisi: 22
+Mantar stok adedi: 1863
+Mantar fiyatý: 18
+Mantar üretim tarihi: 11 / 02 / 2022
+Mantar son kullanma tarihi: 26 / 12 / 2023
+
+Kasar kalorisi: 353
+Kasar stok adedi: 936
+Kasar fiyatý: 17
+Kasar üretim tarihi: 19 / 05 / 2022
+Kasar son kullanma tarihi: 24 / 01 / 2025
+
+Misir kalorisi: 96
+Misir stok adedi: 1893
+Misir fiyatý: 14
+Misir üretim tarihi: 29 / 07 / 2021
+Misir son kullanma tarihi: 17 / 02 / 2024
+
+Kiyma kalorisi: 332
+Kiyma stok adedi: 1515
+Kiyma fiyatý: 29
+Kiyma üretim tarihi: 27 / 08 / 2020
+Kiyma son kullanma tarihi: 19 / 04 / 2025
+
+Kabak kalorisi: 17
+Kabak stok adedi: 1129
+Kabak fiyatý: 14
+Kabak üretim tarihi: 01 / 09 / 2021
+Kabak son kullanma tarihi: 24 / 08 / 2022
+
+Patlican kalorisi: 25
+Patlican stok adedi: 1285
+Patlican fiyatý: 16
+Patlican üretim tarihi: 03 / 12 / 2022
+Patlican son kullanma tarihi: 03 / 07 / 2023
+
+Barbeku sosu kalorisi: 172
+Barbeku sosu stok adedi: 1692
+Barbeku sosu fiyatý: 22
+Barbeku sosu üretim tarihi: 09 / 11 / 2021
+Barbeku sosu son kullanma tarihi: 01 / 03 / 2024
+
+Doner kalorisi: 128
+Doner stok adedi: 1712
+Doner fiyatý: 11
+Doner üretim tarihi: 17 / 05 / 2022
+Doner son kullanma tarihi: 06 / 06 / 2022
+
+Kedi dili kalorisi: 365
+Kedi dili stok adedi: 1532
+Kedi dili fiyatý: 13
+Kedi dili üretim tarihi: 19 / 04 / 2021
+Kedi dili son kullanma tarihi: 09 / 07 / 2023
+
+Kahve kalorisi: 0
+Kahve stok adedi: 830
+Kahve fiyatý: 15
+Kahve üretim tarihi: 23 / 06 / 2021
+Kahve son kullanma tarihi: 12 / 11 / 2028
+
+Bogurtlen kalorisi: 43
+Bogurtlen stok adedi: 1189
+Bogurtlen fiyatý: 19
+Bogurtlen üretim tarihi: 29 / 05 / 2022
+Bogurtlen son kullanma tarihi: 13 / 06 / 2026
+
+Seker kalorisi: 387
+Seker stok adedi: 1207
+Seker fiyatý: 17
+Seker üretim tarihi: 02 / 03 / 2020
+Seker son kullanma tarihi: 29 / 02 / 2023
+
+Jelatin kalorisi: 62
+Jelatin stok adedi: 1109
+Jelatin fiyatý: 15
+Jelatin üretim tarihi: 25 / 04 / 2022
+Jelatin son kullanma tarihi: 15 / 07 / 2025
+
+Nisasta kalorisi: 370
+Nisasta stok adedi: 1689
+Nisasta fiyatý: 16
+Nisasta üretim tarihi: 29 / 06 / 2022
+Nisasta son kullanma tarihi: 16 / 01 / 2024
+
+Yumurta kalorisi: 155
+Yumurta stok adedi: 1175
+Yumurta fiyatý: 12
+Yumurta üretim tarihi: 27 / 07 / 2021
+Yumurta son kullanma tarihi: 12 / 12 / 2022
+
+NULL kalorisi: 0
+NULL stok adedi: 1134
+NULL fiyatý: 0
+NULL üretim tarihi: 
+NULL son kullanma tarihi: 
+
+NULL kalorisi: 0
+NULL stok adedi: 1411
+NULL fiyatý: 0
+NULL üretim tarihi: 
+NULL son kullanma tarihi: 
+

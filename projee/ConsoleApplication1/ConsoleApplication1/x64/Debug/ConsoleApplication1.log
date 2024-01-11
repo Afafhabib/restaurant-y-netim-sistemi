@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(603,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1057,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1087,6): warning C4101: 'guncelStok': unreferenced local variable
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1130,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1136,43): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1269,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\projee\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1355,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\projee\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
